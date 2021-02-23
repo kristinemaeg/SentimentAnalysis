@@ -39,6 +39,8 @@ from pprint import pprint
 from IPython import display
 
 nltk.download('vader_lexicon')
+nltk.download('stopwords')
+nltk.download('punkt')
 
 #Authentication
 consumerKey="U4y7XJ0ejIy9ThRje9UtZXl8N"
